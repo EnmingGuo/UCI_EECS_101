@@ -1,0 +1,4 @@
+/Applications/tool/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/tool/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/guoemmett/Desktop/EECS 101/Assignment/Assignment 2/HW2" -B "/Users/guoemmett/Desktop/EECS 101/Assignment/Assignment 2/HW2/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/guoemmett/Desktop/EECS 101/Assignment/Assignment 2/HW2/cmake-build-debug
